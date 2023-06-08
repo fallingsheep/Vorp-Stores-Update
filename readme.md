@@ -5,8 +5,8 @@ This adds ALL items from the premade files to the stores
 
 - adds 10 new stores
 - all items support the random prices (min,max)
-- no weapons,ammo or weapon parts are included (this will be a seperate update)
-- no 'doctor items'are included (this will be a seperate update)
+- no weapon parts are included (this will be a seperate update)
+- no 'doctor items' are included (this will be a seperate update)
 
 ## **WARNING!**  
 always take a backup before changing/updating any files or databases!  
