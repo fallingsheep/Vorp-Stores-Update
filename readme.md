@@ -19,9 +19,9 @@ the only "balance" is items sell for approx half the buy cost
 simply copy the **config.lua** to **resources\\[VORP]\vorp_stores** folder overwriting the existing one
 
 ### **NEW STORES**  
-- Adds 5 new "Trapper" stores there locations are the same as the story/online
+- Adds 5 new "Trapper" stores there locations are the same as the story/online  
 (Saint Denis, Tall Trees, Near Riggs Station, Near Strawberry, Near Elysian Pool)
-- Adds 4 new "Fence"stores there locations are the same as the story/online
+- Adds 4 new "Fence"stores there locations are the same as the story/online  
 (Saint Denis, ThievesLanding, Rhodes, Emerald Ranch)
 - Adds the Lagras Bait shop
 
