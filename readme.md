@@ -5,7 +5,7 @@ This adds ALL items from the premade files to the stores
 
 - adds 10 new stores
 - all items support the random prices (min,max)
-- weapon parts are now found at fences
+- no weapons or weapon parts (ther already in the weapons scripts)
 - no 'doctor items' are included (doctor shops coming soon)
 
 ## **WARNING!**  
