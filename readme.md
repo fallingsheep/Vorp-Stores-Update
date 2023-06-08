@@ -1,7 +1,7 @@
 
 # Store updates
 This adds ALL items from the premade files to the stores
-(if you dont have the new items see the 200+ new items update)
+(if you dont have the new items see the 200+ new items update here - https://github.com/fallingsheep/Vorp-Items-Updates )
 
 - adds 10 new stores
 - all items support the random prices (min,max)
