@@ -1,12 +1,12 @@
 
 # Store updates
 This adds ALL items from the premade files to the stores
-(if you dont have the new items see the 200+ new items update)
+(if you dont have the new items see the 200+ new items update here - https://github.com/fallingsheep/Vorp-Items-Updates )
 
 - adds 10 new stores
 - all items support the random prices (min,max)
-- no weapons,ammo or weapon parts are included (this will be a seperate update)
-- no 'doctor items'are included (this will be a seperate update)
+- no weapons or weapon parts (ther already in the weapons scripts)
+- no 'doctor items' are included (doctor shops coming soon)
 
 ## **WARNING!**  
 always take a backup before changing/updating any files or databases!  
@@ -19,9 +19,9 @@ the only "balance" is items sell for approx half the buy cost
 simply copy the **config.lua** to **resources\\[VORP]\vorp_stores** folder overwriting the existing one
 
 ### **NEW STORES**  
-- Adds 5 new "Trapper" stores there locations are the same as the story/online
+- Adds 5 new "Trapper" stores there locations are the same as the story/online  
 (Saint Denis, Tall Trees, Near Riggs Station, Near Strawberry, Near Elysian Pool)
-- Adds 4 new "Fence"stores there locations are the same as the story/online
+- Adds 4 new "Fence"stores there locations are the same as the story/online  
 (Saint Denis, ThievesLanding, Rhodes, Emerald Ranch)
 - Adds the Lagras Bait shop
 
