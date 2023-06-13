@@ -42,7 +42,7 @@ Config.Stores = {
         AllowedJobs = {}, -- empty everyone can use
         JobGrade = 0, -- rank allowed
         category = { "Furniture and Decor","Food","Meat","Drinks","Documents and Books","Horse and Pets","Misc","Materials","Herbs and Plants","Fertilizer","Liquor","Tools","Rare Plants","Seeds","Sweets"   }, -- you need to add the same words to the sellitems and buyitems category you can add new categories as long the items have the category names
-        storeType = { "sell", desc = "Buy" }, -- choose the storetype if you translate this you must do the same in the client.lua file
+        storeType = { "sell", "buy" }, -- choose the storetype if you translate this you must do the same in the client.lua file
         StoreHoursAllowed = true, -- if you want the stores to use opening and closed hours
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -64,7 +64,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed as many as you want
         JobGrade = 0,
         category = { "Furniture and Decor","Food","Meat","Drinks","Documents and Books","Horse and Pets","Misc","Materials","Herbs and Plants","Fertilizer","Liquor","Tools","Rare Plants","Seeds","Sweets"   }, -- you need to add the same words to the sellitems and buyitems category you can add new categories as long the items have the category names
-        storeType = { "sell", desc = "Buy" },
+        storeType = { "sell", "buy" },
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 8, -- am
@@ -86,7 +86,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Furniture and Decor","Food","Meat","Drinks","Documents and Books","Horse and Pets","Misc","Materials","Herbs and Plants","Fertilizer","Liquor","Tools","Rare Plants","Seeds","Sweets"   }, -- you need to add the same words to the sellitems and buyitems category you can add new categories as long the items have the category names
-        storeType = { "sell", desc = "Buy" },
+        storeType = { "sell", "buy" },
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 6, -- am
@@ -108,7 +108,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Furniture and Decor","Food","Meat","Drinks","Documents and Books","Horse and Pets","Misc","Materials","Herbs and Plants","Fertilizer","Liquor","Tools","Rare Plants","Seeds","Sweets"   }, -- you need to add the same words to the sellitems and buyitems category you can add new categories as long the items have the category names
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -130,7 +130,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Furniture and Decor","Food","Meat","Drinks","Documents and Books","Horse and Pets","Misc","Materials","Herbs and Plants","Fertilizer","Liquor","Tools","Rare Plants","Seeds","Sweets"   }, -- you need to add the same words to the sellitems and buyitems category you can add new categories as long the items have the category names
-        storeType = { "sell", desc = "Buy" },
+        storeType = { "sell", "buy" },
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -152,7 +152,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Furniture and Decor","Food","Meat","Drinks","Documents and Books","Horse and Pets","Misc","Materials","Herbs and Plants","Fertilizer","Liquor","Tools","Rare Plants","Seeds","Sweets"   }, -- you need to add the same words to the sellitems and buyitems category you can add new categories as long the items have the category names
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -174,7 +174,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Furniture and Decor","Food","Meat","Drinks","Documents and Books","Horse and Pets","Misc","Materials","Herbs and Plants","Fertilizer","Liquor","Tools","Rare Plants","Seeds","Sweets"   }, -- you need to add the same words to the sellitems and buyitems category you can add new categories as long the items have the category names
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -196,7 +196,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Furniture and Decor","Food","Meat","Drinks","Documents and Books","Horse and Pets","Misc","Materials","Herbs and Plants","Fertilizer","Liquor","Tools","Rare Plants","Seeds","Sweets"   }, -- you need to add the same words to the sellitems and buyitems category you can add new categories as long the items have the category names
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -219,7 +219,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Animals and Pelts","Legendary" },
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -241,7 +241,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Animals and Pelts","Legendary" },
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -263,7 +263,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Animals and Pelts","Legendary" },
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -285,7 +285,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Animals and Pelts","Legendary" },
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -307,7 +307,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Animals and Pelts","Legendary" },
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -330,7 +330,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Moonshine","Valuables" },
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -354,7 +354,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Moonshine","Valuables" },
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -378,7 +378,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Moonshine","Valuables" },
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -402,7 +402,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Moonshine","Valuables" },
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -427,7 +427,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Fish","Bait"},
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -449,7 +449,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Fish","Bait"},
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
@@ -472,7 +472,7 @@ Config.Stores = {
         AllowedJobs = {}, -- jobs allowed
         JobGrade = 0,
         category = { "Fish", "Bait", "Tools"},
-        storeType = { "sell", desc = "Buy" }, -- only one type
+        storeType = { "sell", "buy" }, -- only one type
         StoreHoursAllowed = true,
         RandomPrices = true,
         StoreOpen = 7, -- am
